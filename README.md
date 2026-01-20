@@ -22,5 +22,7 @@ Montreal, Quebec, Canada in June 2025. The paper submitted to the conference pro
 The static versions of the notebooks designed for the initial phase of this study are posted in this repository. 
 The respective topics include:
 Notebook_1: Sample & Population
+
 Notebook_2_part_1: Types of random variables and general formulas
+
 Notebook_2_part_2: Linear functions of Random variables
